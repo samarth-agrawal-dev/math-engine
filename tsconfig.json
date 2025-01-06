@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "esModuleInterop": true,
+        "strict": true,
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
