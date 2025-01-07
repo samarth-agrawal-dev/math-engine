@@ -57,7 +57,7 @@ Make sure you have the following installed:
 - 📊 **Logic** : There is no logic in the engine and it does long calculations instead of finding an optimized and quick solution.
 - 📐 **Trignometry** and **other Geometrical Concepts.**
 - 🎮 **Generating questions** for both students and teachers.
-- 🔐 **Frontend**: For making it easy to use in a website or an app instead of in the terminal.
+- ⚪ **Frontend**: For making it easy to use in a website or an app instead of in the terminal.
 
 ---
 
