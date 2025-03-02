@@ -1,5 +1,5 @@
-import "../assets/HoverCard.css"
-import changeToCrazy from "../changeToCrazy";
+import "@/assets/HoverCard.css"
+import changeToCrazy from "@/utils/changeToCrazy";
 const HoverCard = ({text, glowColour="bluish", footerText, backgroundImageUrl, cardHeading} : {glowColour : string, cardHeading:string,text : string,backgroundImageUrl:string, footerText : string}) => {
   return (
     <> 
