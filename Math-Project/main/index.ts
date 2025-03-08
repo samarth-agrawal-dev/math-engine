@@ -77,3 +77,5 @@ class Trignometry extends AdvancedMath {
 // console.log(Trig.calcTrigs(90)); // { sine: 1, cosine: 0, tangent: 'Not Defined.', cosecant: 1, secant: 'Not Defined.', cotangent: 0}
 // console.log(Trig.degreeToRadian(150)); // should return { inTermsOfPi: '5π/6', approxValue: 2.6179938779914944 }
 // console.log(Trig.radianToDegree(5*Math.PI/6)); // should return 150
+
+export {AdvancedMath,Trignometry,Algebra}
